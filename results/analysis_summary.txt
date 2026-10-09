@@ -1,0 +1,13 @@
+Signature Matching - Results Analysis
+=====================================
+
+Same-group average similarity: 49.17%
+Different-group average similarity: 37.33%
+
+Group pair averages:
+person1 vs person1: 44.38%
+person1 vs person2: 31.0%
+person1 vs sign: 32.0%
+person2 vs person2: 53.75%
+person2 vs sign: 49.0%
+sign vs sign: 49.38%
